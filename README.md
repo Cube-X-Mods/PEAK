@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/Version-3.4.0-2f80ed?style=for-the-badge" />
+  <img alt="Version" src="https://img.shields.io/badge/Version-3.4.1-2f80ed?style=for-the-badge" />
   <img alt="Game" src="https://img.shields.io/badge/Game-PEAK-2f80ed?style=for-the-badge" />
   <img alt="BepInEx" src="https://img.shields.io/badge/Loader-BepInEx-111827?style=for-the-badge" />
   <img alt="Framework" src="https://img.shields.io/badge/.NET-netstandard2.1-512bd4?style=for-the-badge" />
