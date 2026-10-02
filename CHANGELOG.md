@@ -1,8 +1,8 @@
-## Version 3.4.0
+## Version 3.4.1
 
-### New
+### Changed
 
-- Standalone builds support Cube-X Launcher loading and BepInEx.
+- Bumped version to 3.4.1
 
 ---
 
