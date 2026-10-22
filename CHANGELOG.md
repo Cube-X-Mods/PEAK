@@ -1,3 +1,19 @@
+## Version 3.5.0
+
+> **Compatibility:** Updated for PEAK v3.0.0.
+
+### Improved
+
+- **Voice Status** — re-worked how voice chat status displays the active voice connection.
+- **Voice Chat Fixer** — re-worked how voice chat fixer would detect and fix the missing audio connections.
+
+### Fixed
+
+- **Infinite Stamina** — now properly displays stamina values.
+- **Steam Join Info** — lobby details now appear before joining again.
+
+---
+
 ## Version 3.4.1
 
 ### Changed
